@@ -1,0 +1,941 @@
+﻿Player,Team,Position,PDO
+Alex Barré-Boulet,COL,C,1
+Zack MacEwen,N.J,R,1
+Tristan Luneau,ANA,D,1.222
+Dysin Mayo,CBJ,D,0.975
+Andreas Englund,NSH,D,0.875
+Andrei Svechnikov,CAR,R,1.003
+Nikolaj Ehlers,CAR,L,1.003
+Shayne Gostisbehere,CAR,D,0.999
+Matthew Tkachuk,FLA,L,0.984
+Brady Tkachuk,OTT,L,0.986
+Sebastian Aho,CAR,C,0.996
+Stephen Halliday,OTT,C,0.983
+Jackson Blake,CAR,R,0.994
+Pavel Dorofeyev,VGK,R,0.998
+Tomas Hertl,VGK,C,0.97
+Logan Stankoven,CAR,C,0.996
+Victor Eklund,NYI,R,0.643
+Seth Jarvis,CAR,C,0.994
+Brett Leason,WSH,R,0.882
+Dylan Cozens,OTT,C,0.994
+Nathan MacKinnon,COL,C,1.042
+Taylor Hall,CAR,L,0.986
+Clayton Keller,UTA,R,1.012
+Nikita Kucherov,T.B,R,1.048
+Xavier Bourgault,OTT,R,0.743
+Jason Polin,COL,R,1.111
+Drake Batherson,OTT,R,1.002
+Mackie Samoskevich,FLA,R,0.989
+Martin Necas,COL,C,1.044
+Tyson Hinds,ANA,D,0.906
+Arthur Kaliyev,OTT,R,1.118
+Jordan Spence,OTT,D,0.988
+Bogdan Trineyev,WSH,R,1
+Jack Hughes,N.J,C,0.984
+Jesper Bratt,N.J,L,0.968
+Darren Raddysh,T.B,D,1.023
+Bokondji Imama,PIT,L,1
+Artemi Panarin,"L.A, NYR",L,0.982
+Raphael Lavoie,VGK,C,1
+Carter Verhaeghe,FLA,C,0.974
+Arseny Gritsyuk,N.J,R,0.967
+Luke Evangelista,NSH,R,1.006
+Mark Stone,VGK,R,1.031
+Leo Carlsson,ANA,C,0.97
+Chris Kreider,ANA,L,0.985
+Andrei Kuzmenko,L.A,L,0.995
+Kevin Fiala,L.A,L,0.987
+Cole Caufield,MTL,R,1.05
+Michael Brandsegg-Nygård,DET,R,0.884
+Victor Olofsson,"CGY, COL",L,0.988
+Alex Ovechkin,WSH,L,1.011
+Quinn Hughes,"MIN, VAN",D,0.999
+Mitch Marner,VGK,R,1.018
+Brayden Point,T.B,C,1.039
+Sam Bennett,FLA,C,0.986
+K'Andre Miller,CAR,D,0.957
+Ross Colton,COL,C,0.98
+Adam Fox,NYR,D,1.025
+Cutter Gauthier,ANA,L,0.993
+Troy Terry,ANA,R,0.99
+Leon Draisaitl,EDM,C,1.026
+Michael Carcone,UTA,L,0.996
+Oliver Bjorkstrand,T.B,R,1.005
+William Carrier,CAR,L,0.986
+Gabriel Landeskog,COL,L,1.044
+Josh Norris,BUF,C,1.037
+Mats Zuccarello,MIN,R,1.008
+Connor McDavid,EDM,C,1.022
+Kirill Kaprizov,MIN,L,1.027
+Zach Hyman,EDM,L,1.038
+Jack Ahcan,COL,D,0.992
+Alex DeBrincat,DET,R,1.012
+Ville Heinola,WPG,D,0.972
+Mathew Barzal,NYI,C,1.005
+Daniil But,UTA,L,1.003
+Patrick Kane,DET,R,1
+Dylan Guenther,UTA,R,1.019
+Filip Forsberg,NSH,L,1.017
+Kirill Marchenko,CBJ,R,1.02
+Lucas Raymond,DET,L,1.015
+Brad Marchand,FLA,L,0.987
+Jason Robertson,DAL,L,1.059
+Ville Koivunen,PIT,R,0.946
+Timo Meier,N.J,R,0.968
+Sean Walker,CAR,D,0.955
+Jason Zucker,BUF,L,1.022
+Barrett Hayton,UTA,C,0.99
+Nazem Kadri,"CGY, COL",C,0.975
+Alexander Nikishin,CAR,D,1.029
+Alexis Lafrenière,NYR,L,1.008
+Nick Schmaltz,UTA,C,1.005
+Jake Guentzel,T.B,C,1.013
+Jonathan Drouin,"NYI, STL",L,0.991
+Sam Reinhart,FLA,C,0.967
+Jordan Kyrou,STL,R,0.99
+Brock Nelson,COL,C,1.01
+Ilya Protas,WSH,L,1.034
+Cale Makar,COL,D,1.028
+Tim Stützle,OTT,C,1.001
+Evan Bouchard,EDM,D,1.02
+Konsta Helenius,BUF,C,1.001
+Dmitri Voronkov,CBJ,L,1.004
+Jack Eichel,VGK,C,1.017
+Nick Suzuki,MTL,C,1.055
+Steven Stamkos,NSH,C,1.007
+Jacob Moverare,L.A,D,0.907
+Josh Doan,BUF,R,1.01
+Brandt Clarke,L.A,D,1.007
+Lane Hutson,MTL,D,1.053
+Sam Malinski,COL,D,1.034
+Mike Reilly,CAR,D,1.003
+Roope Hintz,DAL,C,1.061
+Adrian Kempe,L.A,R,1.016
+Kyle Palmieri,NYI,C,0.976
+Kevin Rooney,UTA,C,1.25
+Boris Katchouk,T.B,L,0.959
+Bradly Nadeau,CAR,L,1.031
+Joel Nystrom,CAR,D,0.979
+Jakob Chychrun,WSH,D,1.02
+Mason McTavish,ANA,C,0.972
+Tage Thompson,BUF,C,1.016
+Evgeni Malkin,PIT,C,1.041
+Porter Martone,PHI,R,1.072
+Adam Fantilli,CBJ,C,0.984
+Tyler Toffoli,S.J,C,0.992
+Valeri Nichushkin,COL,R,0.999
+Evan Rodrigues,FLA,C,0.949
+William Eklund,S.J,L,0.957
+Artturi Lehkonen,COL,L,1.041
+Brandon Hagel,T.B,L,1.031
+Sidney Crosby,PIT,C,1.007
+JJ Peterka,UTA,R,1.007
+Jared McCann,SEA,L,0.986
+Trevor Zegras,PHI,C,1.01
+Cole Perfetti,WPG,C,0.993
+David Perron,"DET, OTT",L,0.979
+Dominic Toninato,CHI,C,0.989
+Brendan Brisson,NYR,C,0.877
+Nico Hischier,N.J,C,0.984
+Matvei Michkov,PHI,R,0.99
+Dylan Strome,WSH,C,1.016
+Seth Jones,FLA,D,0.992
+Jonathan Huberdeau,CGY,L,0.983
+Corey Perry,"L.A, T.B",R,1.033
+Beckett Sennecke,ANA,R,0.984
+Gavin Brindley,COL,C,0.973
+Juraj Slafkovský,MTL,L,1.045
+Macklin Celebrini,S.J,C,1.025
+Morgan Frost,CGY,C,0.993
+Kent Johnson,CBJ,C,0.975
+Will Smith,S.J,C,1.021
+Mason Marchment,"CBJ, SEA",L,1.036
+Matt Boldy,MIN,L,1.023
+Justin Robidas,CAR,C,0.933
+Luke Hughes,N.J,D,0.983
+Anze Kopitar,L.A,C,1.015
+Joshua Roy,MTL,R,0.983
+Rutger McGroarty,PIT,R,0.948
+Andre Lee,L.A,L,0.917
+Alex Turcotte,L.A,C,0.954
+Rasmus Dahlin,BUF,D,1.024
+Erik Karlsson,PIT,D,1.01
+David Pastrnak,BOS,R,1.039
+Fabian Zetterlund,OTT,L,0.987
+Claude Giroux,OTT,R,1.008
+Jackson LaCombe,ANA,D,0.967
+Dougie Hamilton,N.J,D,0.989
+Mark Jankowski,CAR,L,0.99
+Rickard Rakell,PIT,R,1.006
+Zach Werenski,CBJ,D,0.998
+Ben Kindel,PIT,C,0.985
+Michael Bunting,"DAL, NSH",L,0.979
+Morgan Geekie,BOS,C,1.034
+Joel Kiviranta,COL,L,1.002
+Denver Barkey,PHI,C,0.961
+Nino Niederreiter,WPG,R,0.971
+Linus Karlsson,VAN,C,0.94
+Anders Lee,NYI,L,0.994
+Mitchell Chaffee,T.B,R,0.94
+Gabriel Vilardi,WPG,C,1.011
+Matt Coronato,CGY,R,0.979
+Jake Sanderson,OTT,D,1.005
+Logan Cooley,UTA,C,1.025
+Bo Horvat,NYI,C,0.988
+Tony DeAngelo,NYI,D,0.987
+David Tomasek,EDM,R,0.966
+Moritz Seider,DET,D,1.002
+Damon Severson,CBJ,D,1.006
+Jordan Staal,CAR,C,0.972
+Viktor Arvidsson,BOS,L,1.055
+Josiah Slavin,CAR,L,1.143
+Anton Lundell,FLA,C,0.985
+Ivan Demidov,MTL,R,1.048
+Anthony Mantha,PIT,R,1.028
+Igor Chernyshov,S.J,L,1.023
+Ryan O'Reilly,NSH,C,1.021
+Jack Roslovic,EDM,C,0.972
+Jordan Eberle,SEA,R,1.008
+Sonny Milano,WSH,L,0.994
+Carson Lambos,MIN,D,1.167
+Mikael Pyyhtia,CBJ,L,0.907
+Zach Benson,BUF,L,1.047
+Mark Scheifele,WPG,C,1.022
+Stefan Noesen,N.J,R,0.961
+John Klingberg,S.J,D,0.992
+Dominic James,T.B,C,1.019
+Eric Robinson,CAR,L,0.977
+Jesperi Kotkaniemi,CAR,C,1.011
+Bobby Brink,"MIN, PHI",R,0.994
+James van Riemsdyk,DET,L,1.003
+Sean Durzi,UTA,D,0.964
+Jonatan Berggren,"DET, STL",R,0.989
+Dylan Larkin,DET,C,1.013
+Casey Mittelstadt,BOS,C,1.031
+Ryan Nugent-Hopkins,EDM,C,1.009
+Gage Goncalves,T.B,C,1.051
+Thomas Chabot,OTT,D,0.977
+Joel Eriksson Ek,MIN,C,1.039
+Owen Tippett,PHI,R,0.983
+Tyler Bertuzzi,CHI,L,1.009
+Hendrix Lapierre,WSH,C,0.986
+Zakhar Bardakov,COL,C,1.005
+Kiefer Sherwood,"S.J, VAN",L,0.961
+Mikko Rantanen,DAL,R,1.051
+Jonathan Marchessault,NSH,R,0.996
+Matthew Schaefer,NYI,D,1.006
+Zayne Parekh,CGY,D,0.998
+Connor Zary,CGY,C,0.983
+Jeffrey Viel,"ANA, BOS",L,0.971
+Ryan Hartman,MIN,R,1.014
+Topias Vilen,N.J,D,1.1
+John Tavares,TOR,C,0.983
+Tom Wilson,WSH,R,1
+Pontus Holmberg,T.B,R,0.991
+Mikael Granlund,ANA,C,0.971
+Roman Josi,NSH,D,1.004
+Ilya Solovyov,"COL, PIT",D,0.977
+Charles Alexis Legault,CAR,D,1.055
+Drew Doughty,L.A,D,0.977
+Charle-Edouard D'Astous,T.B,D,0.978
+Brendan Gallagher,MTL,R,0.998
+Jordan Harris,BOS,D,0.948
+Pavol Regenda,S.J,L,0.985
+Scott Morrow,NYR,D,0.986
+Dylan Holloway,STL,L,1.029
+John Carlson,"ANA, WSH",D,0.994
+Alexandre Texier,"MTL, STL",L,1.028
+Cole Hutson,WSH,D,1.017
+William Nylander,TOR,R,1.007
+Kevin Hayes,PIT,R,0.985
+J.T. Miller,NYR,C,0.968
+Jake Neighbours,STL,L,1.008
+Pavel Zacha,BOS,C,1.045
+Nick Blankenburg,"COL, NSH",D,0.985
+Jalen Chatfield,CAR,D,0.986
+Matthew Poitras,BOS,C,1.05
+Uvis Balinskis,FLA,D,0.966
+Devon Toews,COL,D,1.021
+Jake DeBrusk,VAN,L,0.984
+Jake Bean,CGY,D,0.914
+Tommy Novak,PIT,C,1.007
+Nick DeSimone,UTA,D,1.001
+Sandis Vilmanis,FLA,L,0.958
+Ryan Leonard,WSH,R,1.03
+Kyle Connor,WPG,L,1.012
+Noah Ostlund,BUF,C,1.032
+Axel Sandin-Pellikka,DET,D,0.964
+Logan O'Connor,COL,R,0.976
+Braeden Bowman,VGK,R,0.937
+Calum Ritchie,NYI,C,0.988
+Kailer Yamamoto,UTA,R,1.023
+Nick Paul,T.B,L,0.963
+Jack Quinn,BUF,R,1.024
+Zachary Bolduc,MTL,R,1.002
+Matthew Wood,NSH,R,1.024
+Nate Danielson,DET,C,0.999
+Mavrik Bourque,DAL,C,1.003
+Michael Eyssimont,BOS,C,0.994
+Jonathan Toews,WPG,C,0.974
+Jakob Pelletier,T.B,L,0.933
+Seamus Casey,N.J,D,0.85
+Quinton Byfield,L.A,R,0.98
+Luca Pinelli,CBJ,C,0.945
+Victor Hedman,T.B,D,1.012
+Bryan Rust,PIT,R,1.012
+Shea Theodore,VGK,D,1.003
+Ivan Barbashev,VGK,L,1.015
+Mattias Ekholm,EDM,D,1.006
+Emil Heineman,NYI,L,0.986
+Max Jones,EDM,L,1.017
+Mika Zibanejad,NYR,C,0.999
+Yegor Chinakhov,"CBJ, PIT",R,1.006
+Josh Morrissey,WPG,D,1.018
+Ryan Strome,"ANA, CGY",C,0.982
+Vasily Podkolzin,EDM,R,0.998
+Jordan Martinook,CAR,L,0.967
+Jaccob Slavin,CAR,D,0.981
+Dmitry Orlov,S.J,D,0.991
+Olen Zellweger,ANA,D,1.002
+Matty Beniers,SEA,C,0.998
+Dawson Mercer,N.J,C,0.984
+Alex Laferriere,L.A,R,0.989
+Gustav Nyquist,WPG,R,0.989
+Trevor Moore,L.A,L,0.977
+Wyatt Johnston,DAL,C,1.043
+Zeev Buium,"MIN, VAN",D,0.981
+Roby Jarventie,EDM,L,0.75
+Jack Devine,FLA,R,0.85
+A.J. Greer,FLA,L,1.014
+Elias Pettersson,VAN,C,0.971
+Jamie Drysdale,PHI,D,1.006
+Tristen Nielsen,COL,C,1.125
+MacKenzie Weegar,"CGY, UTA",D,0.952
+Justin Sourdif,WSH,"C, R",1.036
+Danton Heinen,"CBJ, PIT",L,1.018
+Jiri Kulich,BUF,C,0.955
+Mikhail Sergachev,UTA,D,1.002
+Mike Benning,FLA,D,0.975
+Dalibor Dvorsky,STL,R,1.006
+Jimmy Snuggerud,STL,R,1.055
+Jeff Malott,L.A,L,0.951
+Lassi Thomson,OTT,D,1.025
+Josh Manson,COL,D,1.014
+Michael Callahan,BOS,D,0.866
+Pierre-Luc Dubois,WSH,"C, L",0.989
+Vincent Trocheck,NYR,C,1.016
+Simon Nemec,N.J,D,0.981
+Brock Boeser,VAN,R,0.97
+Robert Thomas,STL,C,1.048
+Jack Drury,COL,C,0.976
+Owen Beck,MTL,C,1.068
+Anton Frondell,CHI,C,1.014
+Justin Holl,STL,D,1.082
+Anthony Cirelli,T.B,C,1.044
+Michael Misa,S.J,C,1.007
+Brayden Schenn,"NYI, STL",C,0.972
+Nick Cousins,OTT,C,1.004
+Oscar Fisker Molgaard,SEA,C,1.042
+Vince Dunn,SEA,D,0.987
+Vladimir Tarasenko,MIN,R,1.005
+Samuel Girard,"COL, PIT",D,1.012
+Ethen Frank,WSH,"C, R",1.033
+Taylor Ward,L.A,R,1.009
+Jacob Gaucher,PHI,C,0.889
+Jeff Petry,"FLA, MIN",D,0.961
+Matt Duchene,DAL,C,1.036
+Matt Rempe,NYR,C,0.977
+Brady Martin,NSH,C,1.071
+Brent Burns,COL,D,1.017
+Vladislav Namestnikov,WPG,C,0.952
+Theo Lindstein,STL,D,1.041
+Filip Chytil,VAN,C,0.917
+Travis Konecny,PHI,R,1.026
+Sean Monahan,CBJ,C,0.976
+J.J. Moser,T.B,D,1.026
+Noah Hanifin,VGK,D,0.988
+Marcus Johansson,MIN,L,1.041
+Brad Lambert,WPG,C,0.961
+Max Crozier,T.B,D,1.006
+Ryan Donato,CHI,C,0.985
+Joel Hanley,CGY,D,0.964
+Justin Brazeau,PIT,R,1.025
+Elias Lindholm,BOS,C,1.03
+Alex Steeves,BOS,C,1.022
+Andre Burakovsky,CHI,L,0.98
+Morgan Rielly,TOR,D,0.996
+Matias Maccelli,TOR,L,0.973
+Marco Rossi,"MIN, VAN",C,0.98
+Brandon Montour,SEA,D,0.976
+Sam Poulin,PIT,R,0.778
+Miro Heiskanen,DAL,D,1.029
+Connor Bedard,CHI,C,1.012
+Ondrej Palat,"N.J, NYI",L,0.975
+Justin Barron,NSH,D,0.997
+Nate Schmidt,UTA,D,1.021
+Yegor Sharangovich,CGY,C,0.978
+Kaedan Korczak,VGK,D,0.99
+Nils Hoglander,VAN,L,0.983
+Ben Hutton,VGK,D,0.998
+Erik Gustafsson,DET,D,0.846
+Adam Engstrom,MTL,D,1.042
+Elias Salomonsson,WPG,D,0.977
+Eetu Luostarinen,FLA,C,0.983
+Taylor Makar,COL,L,1.003
+Noah Cates,PHI,L,1.039
+Mason Lohrei,BOS,D,1.037
+Emmitt Finnie,DET,C,0.991
+Kirby Dach,MTL,C,0.999
+Aaron Ekblad,FLA,D,0.985
+John Marino,UTA,D,1.049
+Jared Wright,L.A,R,0.986
+Curtis Douglas,"T.B, VAN",C,0.946
+Gabe Perreault,NYR,R,1.028
+Cody Glass,N.J,C,0.998
+Aliaksei Protas,WSH,"C, L",0.997
+Evander Kane,VAN,L,0.99
+Lenni Hameenaho,N.J,R,0.979
+Conor Sheary,NYR,L,1.011
+Hunter Brzustewicz,CGY,D,0.999
+Emil Andrae,PHI,D,1.032
+Jeff Skinner,S.J,L,1.008
+Kyle Capobianco,DAL,D,1.006
+Shane Wright,SEA,C,1.037
+Frank Nazar,CHI,C,0.997
+Kaapo Kakko,SEA,R,1.056
+Alexander Wennberg,S.J,C,0.982
+Conor Garland,"CBJ, VAN",R,0.954
+Connor Brown,N.J,R,0.995
+Max Sasson,VAN,C,0.976
+Dylan Coghlan,VGK,D,1.039
+Skyler Brind'Amour,CAR,C,0.929
+Rafael Harvey-Pinard,PIT,L,1.25
+David Reinbacher,MTL,D,1.042
+Tyler Kleven,OTT,D,0.979
+Tyler Seguin,DAL,C,1.084
+Auston Matthews,TOR,C,1.003
+Ian Moore,ANA,D,0.952
+Artyom Levshunov,CHI,D,0.976
+Maxim Tsyplakov,"N.J, NYI",R,0.889
+Blake Coleman,CGY,L,0.99
+Filip Hronek,VAN,D,0.98
+Boone Jenner,CBJ,C,0.991
+Tanner Laczynski,VGK,C,1.005
+Easton Cowan,TOR,R,1.025
+Marc Gatcomb,NYI,C,0.971
+Jamie Benn,DAL,L,1.057
+Jani Nyman,SEA,R,0.988
+Oliver Ekman-Larsson,TOR,D,1.02
+Hayden Hodgson,OTT,R,0.95
+Marek Alscher,FLA,D,1.088
+Nick Lardis,CHI,L,0.933
+Nolan Foote,FLA,L,0.943
+Carter Yakemchuk,OTT,D,1.075
+Ryan Graves,PIT,D,0.971
+Charlie McAvoy,BOS,D,1.037
+Pavel Buchnevich,STL,L,0.995
+Jayden Struble,MTL,D,1.024
+Aydar Suniev,CGY,L,0.994
+Cam Fowler,STL,D,0.996
+Andrew Copp,DET,C,0.991
+Brian Dumoulin,L.A,D,0.99
+Teuvo Teravainen,CHI,C,0.983
+Ridly Greig,OTT,C,0.994
+Will Cuylle,NYR,L,0.995
+Kris Letang,PIT,D,1.008
+Matěj  Blümel,BOS,R,0.957
+Colton Dach,"CHI, EDM",C,0.968
+Fedor Svechkov,NSH,C,0.989
+Matvei Gridin,CGY,R,0.991
+Isak Rosen,"BUF, WPG",R,0.985
+Jonny Brodzinski,NYR,C,1.007
+Tyson Foerster,PHI,R,1.068
+William Karlsson,VGK,C,0.961
+Ryan Ufko,NSH,D,1.037
+Reilly Smith,VGK,R,0.961
+Henri Jokiharju,BOS,D,1.006
+Jack McBain,UTA,C,1.004
+Berkly Catton,SEA,C,0.992
+Oliver Moore,CHI,C,0.972
+Jansen Harkins,ANA,C,0.973
+Alex Killorn,ANA,L,0.971
+Max Shabanov,NYI,R,1.008
+Patrik Laine,MTL,L,0.907
+Nils Lundkvist,DAL,D,1.042
+Jake Christiansen,CBJ,D,0.956
+Parker Kelly,COL,C,0.981
+Marshall Warren,NYI,D,1.006
+Radko Gudas,ANA,D,0.976
+Harrison Brunicke,PIT,D,0.938
+Samuel Honzek,CGY,L,0.988
+Andrew Mangiapane,"CHI, EDM",L,0.936
+Philipp Kurashev,S.J,C,1.028
+Adam Wilsby,NSH,D,0.996
+Fraser Minten,BOS,C,1.025
+Adam Klapka,CGY,R,0.985
+Dennis Gilbert,OTT,D,0.978
+Colin Miller,WPG,D,0.963
+Max Domi,TOR,C,0.968
+Jacob Melanson,SEA,R,0.947
+Marco Kasper,DET,C,0.944
+Niko Mikkola,FLA,D,0.979
+Brett Howden,VGK,C,0.965
+Charlie Coyle,CBJ,C,0.988
+Shane Pinto,OTT,C,0.983
+Josh Samanski,EDM,C,1.02
+Owen Power,BUF,D,1.011
+Arshdeep Bains,VAN,L,0.991
+Denton Mateychuk,CBJ,D,0.99
+Alex Iafallo,WPG,L,1.005
+Riley Tufte,BOS,L,0.973
+Ivan Ivan,COL,C,1.037
+Luca Cagnoni,S.J,D,1.042
+Sam Rinzel,CHI,D,1.009
+Alexander Kerfoot,UTA,C,0.998
+Brandon Saad,VGK,L,0.957
+Bobby McMann,"SEA, TOR",C,1.007
+Rasmus Andersson,"CGY, VGK",D,1.016
+Tobias Bjornfot,FLA,D,1.024
+Nikita Grebenkin,PHI,R,0.972
+Gustav Forsling,FLA,D,0.971
+Vladislav Kolyachonok,"BOS, DAL",D,1.037
+Jake Walman,EDM,D,0.956
+Neal Pionk,WPG,D,0.986
+Joel Armia,L.A,R,0.992
+Hampus Lindholm,BOS,D,1.004
+Bowen Byram,BUF,D,1.024
+Dmitry Kulikov,FLA,D,0.975
+Yanni Gourde,T.B,C,0.972
+Keegan Kolesar,VGK,R,0.956
+Anthony Duclair,NYI,L,1.036
+Filip Hallander,PIT,C,1.061
+Cole Sillinger,CBJ,C,1.003
+Donovan Sebrango,"FLA, OTT",D,0.993
+Warren Foegele,"L.A, OTT",L,1
+Nicolas Deslauriers,"CAR, PHI",L,0.971
+Matt Grzelcyk,CHI,D,1.004
+Martin Pospisil,CGY,C,0.956
+Urho Vaakanainen,NYR,D,1.007
+Alex Bump,PHI,L,1.04
+Rory Kerins,CGY,C,0.968
+Simon Edvinsson,DET,D,0.996
+Declan Chisholm,WSH,D,1.005
+Matt Savoie,EDM,C,0.992
+Ross Johnston,ANA,L,1.021
+Alex Tuch,BUF,R,1.029
+Michael Amadio,OTT,R,1.006
+Thomas Harley,DAL,D,1.008
+Kenny Connors,L.A,C,0.857
+Pius Suter,STL,C,1.022
+Peyton Krebs,BUF,C,1.031
+Erik Haula,NSH,L,1.002
+P.O Joseph,VAN,D,0.915
+Connor Clattenburg,EDM,C,1.056
+Frank Vatrano,ANA,R,0.951
+Spencer Stastney,"EDM, NSH",D,0.956
+Tyler Tucker,STL,D,0.952
+Luke Haymes,TOR,C,0.895
+Danila Yurov,MIN,R,1.007
+Samuel Helenius,L.A,C,0.973
+John Leonard,DET,L,0.981
+Brayden McNabb,VGK,D,0.969
+Declan Carlile,T.B,D,1.018
+Lawson Crouse,UTA,L,1.022
+Emil Lilleberg,T.B,D,1.019
+Connor Mackey,NYR,D,0.842
+Jaroslav Chmelar,NYR,R,0.996
+Nicolas Hague,NSH,D,0.984
+Jonas Rondbjerg,VGK,R,0.91
+Ryan Lomberg,CGY,L,0.988
+Johnathan Kovacevic,N.J,D,0.985
+Rasmus Ristolainen,PHI,D,1.013
+Nicholas Robertson,TOR,L,0.999
+Noah Dobson,MTL,D,1.008
+Marat Khusnutdinov,BOS,C,1.023
+Sammy Blais,"MTL, TOR",L,1.017
+Liam O'Brien,UTA,C,0.969
+Mathieu Olivier,CBJ,R,1.027
+Josh Dunne,BUF,C,0.93
+Logan Mailloux,STL,D,0.987
+Trent Frederic,EDM,C,0.95
+Brock Faber,MIN,D,1.015
+Jesper Boqvist,FLA,C,0.963
+Drew O'Connor,VAN,L,0.963
+Jacob Trouba,ANA,D,0.97
+Adam Pelech,NYI,D,0.979
+Nick Foligno,"CHI, MIN",L,1.015
+Nick Jensen,OTT,D,0.982
+Nathan Bastian,DAL,R,1.04
+Anthony Beauvillier,WSH,"L, R",1.006
+Colton White,N.J,D,1.017
+Egor Zamula,"CBJ, PHI",D,1.028
+Brandon Tanev,UTA,L,0.935
+Matthew Knies,TOR,L,1
+Sam Lafferty,CHI,C,0.994
+Elmer Soderblom,"DET, PIT",L,0.998
+Simon Holmstrom,NYI,R,1.007
+James Hagens,BOS,C,1.1
+Logan Stanley,"BUF, WPG",D,1.016
+Justin Faulk,"DET, STL",D,0.98
+Cody Ceci,L.A,D,0.974
+Owen Pickering,PIT,D,0.888
+Jaden Schwartz,SEA,L,1.028
+Philip Tomasino,PIT,R,0.999
+Christian Dvorak,PHI,C,1.004
+Cameron Crotty,OTT,D,1
+Cole Schwindt,FLA,R,1.009
+Nikita Chibrikov,WPG,R,1.043
+Adam Gaudette,S.J,R,1.016
+Jared Spurgeon,MIN,D,1.01
+Vladislav Gavrikov,NYR,D,1.001
+Matt Luff,STL,R,0.919
+Ryan McLeod,BUF,C,1.035
+Mikael Backlund,CGY,C,0.994
+Dmitri Simashev,UTA,D,0.939
+Joel Farabee,CGY,L,0.979
+Jared Davidson,MTL,C,0.873
+Nikita Nesterenko,ANA,C,0.983
+Lars Eller,OTT,C,1.002
+Brayden Pachal,CGY,D,0.985
+Sam Dickinson,S.J,D,0.99
+Hunter Haight,MIN,C,0.865
+Parker Wotherspoon,PIT,D,1.005
+Jonas Siegenthaler,N.J,D,0.973
+Kevin Korchinski,CHI,D,0.968
+Kyle MacLean,NYI,C,0.976
+Adam Edstrom,NYR,C,1.029
+Scott Sabourin,T.B,R,1.014
+Michael Kesselring,BUF,D,1.006
+William Villeneuve,TOR,D,1.063
+Drew Helleson,ANA,D,0.994
+Justin Hryckowian,DAL,C,1.001
+Rasmus Sandin,WSH,D,1.003
+Nathan Gaucher,ANA,C,0.8
+Arber Xhekaj,MTL,D,0.983
+Mathieu Joseph,"L.A, STL",R,0.956
+Aatu Räty,VAN,C,0.989
+Brett Kulak,"COL, EDM, PIT",D,0.989
+Jacob Bryson,"BUF, WPG",D,0.985
+Pavel Mintyukov,ANA,D,0.987
+Adam Sykora,NYR,L,1.018
+Maveric Lamoureux,UTA,D,1.148
+Justin Kirkland,CGY,C,0.991
+Ivan Provorov,CBJ,D,1.001
+Alexander Holtz,VGK,R,1.011
+Ty Mueller,VAN,C,1.062
+Tyson Jost,NSH,C,0.944
+Jonathan Aspirot,BOS,D,1.062
+Lukas Reichel,"BOS, CHI, VAN",L,1.021
+Mikey Anderson,L.A,D,0.985
+Ivan Miroshnichenko,WSH,L,1.047
+Jeremy Lauzon,VGK,D,0.965
+Connor McMichael,WSH,"C, L",1.021
+Noah Gregor,FLA,L,0.961
+Eeli Tolvanen,SEA,R,0.988
+Sean Couturier,PHI,C,0.953
+Jack St. Ivany,PIT,D,1.036
+Yan Kuznetsov,CGY,D,0.981
+Adam Lowry,WPG,C,0.95
+Tom Willander,VAN,D,0.979
+Phillip Danault,"L.A, MTL",C,0.967
+Vinnie Hinostroza,"FLA, MIN",C,1.007
+Steven Santini,T.B,D,1.043
+Dennis Cholowski,N.J,D,0.951
+Cole Smith,"NSH, VGK",R,0.94
+Jonah Gadjovich,FLA,L,1.098
+Wilmer Skoog,FLA,C,1.188
+Tanner Jeannot,BOS,L,0.99
+Zemgus Girgensons,T.B,C,0.988
+Evgenii Dadonov,N.J,L,0.97
+Cam York,PHI,D,0.989
+Isaac Howard,EDM,L,0.945
+Darnell Nurse,EDM,D,0.97
+Carter Mazur,DET,L,0.931
+Dylan Samberg,WPG,D,0.987
+Matthew Robertson,NYR,D,0.998
+Ozzy Wiesblatt,NSH,C,0.984
+Joel Edmundson,L.A,D,0.996
+Artem Zub,OTT,D,0.995
+Brady Skjei,NSH,D,0.995
+Avery Hayes,PIT,R,0.984
+Dakota Mermis,TOR,D,0.965
+Olli Määttä,"CGY, UTA",D,0.968
+Adam Erne,DAL,L,1.023
+Ryan Shea,PIT,D,1.03
+Alec Regula,EDM,D,0.897
+Jonas Brodin,MIN,D,1.018
+Sam Colangelo,ANA,R,0.976
+Mathew Dumba,PIT,D,0.925
+Blake Lizotte,PIT,C,1.011
+Taylor Raddysh,NYR,R,1.017
+Conor Geekie,T.B,C,0.955
+Brett Berard,NYR,L,1
+Drew Fortescue,NYR,D,1.105
+Paul Cotter,N.J,L,0.95
+Brett Pesce,N.J,D,0.967
+Jaycob Megna,VGK,D,0.643
+Marcus Foligno,MIN,L,0.961
+Zach Metsa,BUF,D,1.085
+Otto Stenberg,STL,C,1.027
+Nicolas Roy,"COL, TOR",C,1.024
+Matthew Kessel,STL,D,1.026
+Lian Bichsel,DAL,D,1.035
+Travis Sanheim,PHI,D,0.994
+Nicolas Aube-Kubel,MIN,R,1.039
+Nick Seeler,PHI,D,0.983
+David Jiricek,"MIN, PHI",D,1.006
+Joona Koppanen,PIT,L,0.993
+Colton Sissons,VGK,C,0.958
+Dylan DeMelo,WPG,D,0.994
+Brendan Gaunce,CBJ,C,0.977
+Robby Fabbri,"MIN, STL",C,0.973
+Adam Henrique,EDM,C,0.95
+Ronan Seeley,CAR,D,1.042
+Jett Luchanko,PHI,C,0.727
+Kasperi Kapanen,EDM,R,1
+Matt Roy,WSH,D,1.013
+Brenden Dillon,N.J,D,0.963
+Miles Wood,CBJ,L,0.98
+Zach Whitecloud,"CGY, VGK",D,0.987
+Adam Boqvist,NYI,D,0.98
+Noah Laba,NYR,C,1.019
+Brendan Smith,CBJ,D,0.995
+Zach Bogosian,MIN,D,1.04
+Jake Livanavage,PIT,D,0.912
+Jonathan Lekkerimäki,VAN,R,0.978
+Chandler Stephenson,SEA,C,0.991
+Jordan Oesterle,NSH,D,0.875
+Walker Duehr,WPG,R,0.929
+Sam Morton,CGY,C,0.923
+Trevor van Riemsdyk,WSH,D,1.009
+Philip Broberg,STL,D,1.024
+Cole Reinhardt,"FLA, VGK",L,1.011
+Ethan Del Mastro,CHI,D,0.912
+Jack Finley,"STL, T.B",C,0.996
+Casey Cizikas,NYI,C,0.99
+Ryker Evans,SEA,D,1.03
+Ryan Poehling,ANA,C,1
+Mason Geertsen,BUF,L,0.889
+Sam Carrick,"BUF, NYR",C,1.006
+Alex Newhook,MTL,C,1.069
+Alex Petrovic,DAL,D,1.019
+Luca Del Bel Belluz,CBJ,C,0.971
+Aleksanteri Kaskimaki,STL,C,0.741
+Olle Lycksell,OTT,R,0.964
+Brayden Yager,WPG,C,0.98
+Keaton Middleton,COL,D,1.018
+Juuso Parssinen,NYR,C,1.104
+Jack Studnicka,FLA,C,0.907
+Dante Fabbro,CBJ,D,0.967
+David Kampf,"VAN, WSH",C,0.926
+Tanner Pearson,"BUF, WPG",L,1.016
+Dryden Hunt,CGY,L,0.727
+Carl Grundstrom,PHI,R,1.033
+Andrew Peeke,BOS,D,0.972
+Ryan Greene,CHI,C,0.995
+Dakota Joshua,TOR,C,1.019
+Nikita Zadorov,BOS,D,1.015
+Albert Johansson,DET,D,0.966
+Ethan Cardwell,S.J,R,0.974
+J.T. Compher,DET,L,0.976
+Zachary L'Heureux,NSH,L,1.015
+Connor Clifton,PIT,D,0.994
+Ryan McDonagh,T.B,D,1.034
+Tye Kartye,"NYR, SEA",L,0.987
+Ty Emberson,EDM,D,0.976
+Ian Cole,UTA,D,1.002
+Sam Steel,DAL,C,1.017
+Zach Aston-Reese,CBJ,"C, L",0.988
+Nick Bjugstad,"N.J, STL",C,0.956
+Mackenzie MacEachern,VAN,L,1.05
+Victor Soderstrom,BOS,D,1.09
+Kirill Kudryavtsev,VAN,D,1.087
+Ryan Reaves,S.J,R,0.962
+Carson Soucy,"NYI, NYR",D,0.995
+Tim Washe,ANA,C,0.95
+Nick Leddy,S.J,D,0.955
+Liam Ohgren,"MIN, VAN",L,0.974
+Jason Dickinson,"CHI, EDM",C,0.973
+Ty Murchison,PHI,D,1.131
+Tyler Myers,"DAL, VAN",D,0.95
+Sacha Boisvert,CHI,C,1.002
+Kevin Bahl,CGY,D,1.008
+Scott Mayfield,NYI,D,0.991
+Reid Schaefer,NSH,L,0.965
+Connor Dewar,PIT,C,1.021
+Sean Kuraly,BOS,C,0.966
+Colton Parayko,STL,D,0.994
+Nikolas Matinpalo,OTT,D,0.991
+Mason Appleton,DET,C,0.989
+Nick Perbix,NSH,D,0.985
+Juho Lammikko,N.J,C,0.979
+Hunter McDonald,PHI,D,1.375
+Ben Chiarot,DET,D,0.988
+Kaiden Guhle,MTL,D,1.027
+Wyatt Kaiser,CHI,D,0.991
+Louis Crevier,CHI,D,1.007
+Yakov Trenin,MIN,C,1.029
+Esa Lindell,DAL,D,1.023
+Curtis Lazar,EDM,C,0.973
+Joe Veleno,MTL,C,0.981
+Vincent Iorio,"NYR, S.J",D,1.014
+Michael McCarron,"MIN, NSH",C,0.941
+Erik Cernak,T.B,D,1.015
+Noah Juulsen,PHI,D,0.997
+Mark Kastelic,BOS,C,0.994
+Joseph LaBate,VAN,C,0.75
+Oliver Kapanen,MTL,C,1.031
+Brian Halonen,N.J,L,0.995
+Tomas Nosek,FLA,L,0.936
+Rodrigo Abols,PHI,C,0.987
+Dylan McIlrath,WSH,D,0.989
+Ludvig Jansson,FLA,D,1.114
+Nathan Walker,STL,L,0.944
+Abram Wiebe,CGY,D,1.018
+Mattias Samuelsson,BUF,D,1.038
+Braden Schneider,NYR,D,1.007
+Ryan Johnson,BUF,D,1.024
+Jacob Bernard-Docker,DET,D,0.997
+Shakir Mukhamadullin,S.J,D,0.998
+Elias Pettersson,VAN,D,0.974
+Brennan Othmann,"CGY, NYR",L,0.971
+Nic Dowd,"VGK, WSH",C,0.974
+Jake Middleton,MIN,D,1.003
+Hugh McGing,STL,L,1.082
+Josh Anderson,MTL,R,0.982
+Brandon Duhaime,WSH,"L, R",0.975
+Jean-Gabriel Pageau,NYI,C,1.001
+Ryan Pulock,NYI,D,1.003
+Troy Stecher,"EDM, TOR",D,1.012
+Morgan Barron,WPG,C,1.001
+Mikulas Hovorka,FLA,D,0.976
+Tyler Pitlick,MIN,C,0.982
+Georgii Merkulov,BOS,C,0.833
+Jamie Oleksiak,SEA,D,1.007
+Michael Rasmussen,DET,C,0.967
+Henry Thrun,TOR,D,0.962
+Ryan Winterton,SEA,C,0.997
+Cale Fleury,SEA,D,1.025
+Riley Stillman,EDM,D,1.076
+Simon Lundmark,T.B,D,1.143
+Isac Lundeström,CBJ,C,0.991
+Teddy Blueger,VAN,C,0.975
+Travis Hamonic,DET,D,0.948
+Will Borgen,NYR,D,1.01
+Luke Schenn,"BUF, WPG",D,0.967
+Chris Tanev,TOR,D,1.093
+Colin Blackwell,DAL,C,0.99
+Haydn Fleury,WPG,D,0.931
+Garnet Hathaway,PHI,R,0.973
+Oskar Bäck,DAL,C,0.999
+Luke Kunin,FLA,C,0.99
+Martin Fehérváry,WSH,D,1.013
+Caleb Jones,PIT,D,1.02
+Alex Vlasic,CHI,D,0.993
+Mike Matheson,MTL,D,1.003
+Alexandre Carrier,MTL,D,0.99
+Noel Acciari,PIT,C,1.016
+Arttu Hyry,DAL,R,0.989
+Cole Koepke,WPG,L,0.99
+Ilya Mikheyev,CHI,R,1.01
+Alexander Romanov,NYI,D,0.988
+Parker Ford,WPG,C,0.99
+Philippe Myers,TOR,D,0.983
+Anthony Richard,PHI,C,1
+Ryan Tverberg,TOR,C,1.167
+Kevin Stenlund,UTA,C,0.971
+Ben Meyers,SEA,C,0.968
+Xavier Parent,N.J,C,0.997
+Mattias Janmark,EDM,C,0.946
+Adam Larsson,SEA,D,0.987
+Michael Pezzetta,TOR,L,0.826
+Patrick Giles,S.J,R,1.034
+Jake McCabe,TOR,D,1.012
+Nils Aman,VAN,C,0.967
+Scott Laughton,"L.A, TOR",C,1
+Kai Uchacz,VGK,C,0.959
+Marcus Pettersson,VAN,D,0.978
+Landon Slaggert,CHI,L,1.005
+Beck Malenstyn,BUF,L,0.994
+Ilya Lyubushkin,DAL,D,1.005
+Joakim Kemell,NSH,R,1.033
+Zack Ostapchuk,S.J,C,0.958
+Matthew Benning,TOR,D,1
+Collin Graf,S.J,R,1.033
+Connor Murphy,"CHI, EDM",D,0.996
+Timothy Liljegren,"S.J, WSH",D,0.994
+Angus Crookshank,N.J,C,1.083
+Vincent Desharnais,S.J,D,1.019
+Ryan Lindgren,SEA,D,0.988
+Ben Jones,MIN,C,0.947
+Jake Evans,MTL,C,0.965
+Marshall Rifai,TOR,D,1.125
+Quinn Hutson,EDM,R,1.011
+Brandon Carlo,TOR,D,1.02
+Anton Blidh,NYR,L,1.1
+Mario Ferraro,S.J,D,0.998
+Travis Mitchell,NYI,D,1.033
+Victor Mancini,VAN,D,0.954
+Joshua Mahura,SEA,D,1.07
+Florian Xhekaj,MTL,L,0.972
+Tyson Kozak,BUF,C,1.004
+Liam Foudy,NYI,C,1
+Felix Unger Sorum,CAR,R,1.25
+Oskar Sundqvist,STL,C,0.969
+Conor Timmins,BUF,D,0.989
+Nico Sturm,MIN,C,0.992
+Radek Faksa,DAL,C,0.986
+Frederic Gaudreau,SEA,C,1.007
+Isaak Phillips,WPG,D,1
+Jordan Greenway,BUF,L,0.969
+Oliver Bonk,PHI,D,1.179
+Dominik Shine,DET,R,1.013
+Alexey Toropchenko,STL,R,0.959
+Matt Kiersted,MIN,D,1.018
+John Beecher,"BOS, CGY",C,0.985
+Simon Benoit,TOR,D,0.991
+Noah Philp,"CAR, EDM",C,0.931
+Daemon Hunt,MIN,D,0.987
+Tyson Gross,CGY,C,0.983
+Steven Lorentz,TOR,C,1
+Hunter Skinner,STL,D,1.3
+Dylan Duke,T.B,L,0.833
+Barclay Goodrow,S.J,C,0.953
+Marc McLaughlin,N.J,C,1.027
+Jacob Quillan,TOR,C,0.962
+Erik Gudbranson,CBJ,D,1.024
+William Stromgren,CGY,L,0.923
+Isaiah George,NYI,D,1.078
+T.J. Tynan,COL,C,1.25
+Calle Jarnkrok,TOR,C,0.959
+Garrett Wilson,PHI,L,1.042
+Luke Glendening,"N.J, PHI",C,0.977
+Kurtis MacDermid,OTT,L,0.902
+Justin Dowling,NYR,C,0.889
+John Hayden,SEA,C,0.917
+Lane Pederson,PHI,C,1.1
+Braeden Cootes,VAN,C,0.9
+Cameron Hughes,DAL,C,1.4
+Ty Dellandrea,S.J,C,0.958
+Cole McWard,NYI,D,1.093
+Tristan Broz,PIT,C,0.889
+Viking Gustafsson-Nyberg,MIN,D,1.13
+Justin Danforth,BUF,R,0.931
+Maxim Groshev,T.B,D,1.1
+Bo Groulx,TOR,C,1.113
+Angus Booth,L.A,D,1.25
+Adam Ginning,PHI,D,1.095
+Sheldon Dries,DET,C,0.947
+Cole O'Hara,NSH,R,1.5
+Domenick Fensore,CAR,D,0.833
+Daniil Miromanov,CGY,D,1.3
+Andrew Agozzino,UTA,L,1
+Shane Lachance,N.J,L,1
+Danil Zhilkin,WPG,C,1.273
+Derek Forbort,VAN,D,1.109
+Kevin Gravel,NSH,D,1.089
+Jorian Donovan,OTT,D,1
+Nathan Légaré,N.J,R,1
+David Spacek,MIN,D,1.042
+Trevor Kuntar,BUF,C,0.86
